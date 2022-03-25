@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pifagor Theorem</string>
+    <string name="title">Find C</string>
+    <string name="result_info">Result:&#160;</string>
+    <string name="input_a">Enter the A value</string>
+    <string name="input_b">Enter the B value</string>
+    <string name="result">The result is</string>
+</resources>
